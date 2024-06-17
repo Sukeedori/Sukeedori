@@ -8,7 +8,6 @@
 
 ## 🚀 About Me
 
-<br>
 
 <a target="_blank" align="center">
   <img align="left" height="180" width="550"  src="https://pbs.twimg.com/media/GQPBiGeWQAANXxA?format=jpg&name=medium">
