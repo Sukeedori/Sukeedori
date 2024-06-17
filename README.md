@@ -6,6 +6,10 @@
 </h1>
 <h3 align="center">Exploring the world of web development :3 💻⭐</h3>
 
+<div align="center">
+<img src="https://i.pinimg.com/originals/5f/5f/c0/5f5fc0551266042ffeb3302bcd3b106f.gif" width="50">
+</div>
+
 ## 🚀 About Me
 
 
@@ -41,9 +45,6 @@ I'm passionate about programming with a vivid imagination and enthusiasm for cre
 -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sukeedori&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-<img src="https://i.pinimg.com/originals/5f/5f/c0/5f5fc0551266042ffeb3302bcd3b106f.gif" width="50">
-</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
