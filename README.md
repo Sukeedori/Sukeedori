@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Sukeedori
  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c378d0ed-9194-4621-9b8f-75589d8707fe/d7k72t5-fef46669-ab39-4c1a-a794-0dec266e8d36.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MzNzhkMGVkLTkxOTQtNDYyMS05YjhmLTc1NTg5ZDg3MDdmZVwvZDdrNzJ0NS1mZWY0NjY2OS1hYjM5LTRjMWEtYTc5NC0wZGVjMjY2ZThkMzYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2F_PXw8i1DROcsMVx_rUX9eJPpGlN8moxwgAKN--5oU" width="50">
 </h1>
-<h3 align="center">Exploring the world of web development 💻⭐</h3>
+<h3 align="center">Exploring the world of web development :3 💻⭐</h3>
 
 ## 🚀 About Me
 
