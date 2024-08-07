@@ -31,7 +31,12 @@ I'm passionate about programming with a vivid imagination and enthusiasm for cre
 <p>
     <img src="https://api.iconify.design/vscode-icons:file-type-js-official.svg" width="4%"/>
     <img src="https://api.iconify.design/vscode-icons:file-type-python.svg" width="4%"/>
+    <img src="https://api.iconify.design/logos:bootstrap.svg" width="5%"/>
+    <img src="https://api.iconify.design/logos:django-icon.svg" width="4%"/>
+ 
+ <!--
     <img src="https://api.iconify.design/vscode-icons:file-type-reactjs.svg" width="4%"/>
+ -->
 </p>
 
 ## 📊 GitHub Stats:
