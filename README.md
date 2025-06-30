@@ -10,7 +10,7 @@
 
 
 <a target="_blank" align="center">
-  <img align="left" height="180" width="550"  src="https://pbs.twimg.com/media/GQPBiGeWQAANXxA?format=jpg&name=medium">
+  <img align="left" height="180" width="550"  src="https://pbs.twimg.com/media/GusxHNoXMAEsibK?format=jpg&name=medium">
 </a>
 
 I'm passionate about programming with a vivid imagination and enthusiasm for creating innovative applications and websites. I'm a fan of <em>ARPG games</em> 🎮, <em>anime/manga</em> 📚, and aspire to become a <strong>Full-Stack Developer</strong> in the future. 
